@@ -2,5 +2,11 @@
 name = "rpkg"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "A simple package manager for Rust"
+authors = ["Rustaceans"]
+repository = "https://github.com/drazisil/rpkg"
+readme = "README.md"
+license-file = "LICENSE"
 
 [dependencies]
